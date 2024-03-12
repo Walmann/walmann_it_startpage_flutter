@@ -4,7 +4,7 @@ import 'dart:js' as js;
 // import 'package:animated_background/animated_background.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg_provider/flutter_svg_provider.dart';
-import 'dart:async';
+// import 'dart:async';
 import 'package:flutter_social_button/flutter_social_button.dart';
 
 void main() {
